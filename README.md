@@ -1,2 +1,2 @@
 # cse29lab1
-lab1 for cse29
+Hi my name is Yuheon Joh(曺宥献) and my Englsih name is John.
